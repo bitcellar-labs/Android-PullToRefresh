@@ -27,8 +27,7 @@
                 android:layout_height="32dp"
                 android:layout_gravity="center"
                 android:indeterminate="true"
-                android:indeterminateDrawable="@drawable/progress_image"
-                android:interpolator="@android:anim/linear_interpolator"
+                android:indeterminateDrawable="@drawable/supplementary_icon_cyclic_arrows_anim"
                 android:visibility="visible" />
         </FrameLayout>
 
