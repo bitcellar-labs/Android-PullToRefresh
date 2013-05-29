@@ -72,6 +72,6 @@
         android:duration="@integer/supplementary_icon_cyclic_arrows_duration"/>
     <item
         android:drawable="@drawable/supplementary_icon_cyclic_arrows_phase_23"
-        android:duration="@integer/supplementary_icon_cyclic_arrows_duration"/>
+        android:duration="@integer/supplementary_icon_cyclic_arrows_last_frame_duration"/>
 
 </animation-list>
