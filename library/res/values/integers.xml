@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <integer name="supplementary_icon_cyclic_arrows_duration">16</integer>
-    <integer name="supplementary_icon_cyclic_arrows_last_frame_duration">300</integer>
+    <integer name="supplementary_icon_cyclic_arrows_duration">33</integer>
 
 </resources>
