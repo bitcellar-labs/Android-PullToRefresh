@@ -1,4 +1,0 @@
-include ':extras:PullToRefreshViewPager'
-include ':library'
-include ':extras:PullToRefreshListFragment'
-include ':sample'
